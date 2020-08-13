@@ -1,4 +1,4 @@
-console.log('hello aoo.js')
+
 // const address='!'
 // fetch("https://api.mapbox.com/geocoding/v5/mapbox.places/" + encodeURIComponent(address) + ".json?access_token=pk.eyJ1IjoiamloYW5oYXNzYW4iLCJhIjoiY2tjejNmeW90MGNyeTJ5dnBzeDhxaHoxZCJ9.m_czWw5LX9LB9Sk-2QELew&limit=1")
 // .then((response)=>{
